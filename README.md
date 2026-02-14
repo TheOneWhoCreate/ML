@@ -1,12 +1,14 @@
 # ML
 # Google Colab Notebook Series
 
+---
+
 This repository contains my complete ML classes notes held by my teacher in Google Colab.
 Each notebook is listed sequentially below.
 
 ---
 
-## 🔢 Notebook Links
+## 🔢 Notebooks 
 
 ### 1️⃣ Notebook 1 – Familiarization
 
