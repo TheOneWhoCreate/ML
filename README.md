@@ -60,4 +60,4 @@ Each notebook is listed sequentially below.
 ## 👨‍💻 Author
 
 **Atanu Rooj**  
-AEIE | FPGA | AI | Embedded Systems
+AEIE | Python | AI | Embedded Systems
