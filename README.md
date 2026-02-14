@@ -1,9 +1,8 @@
-# ML
-# Google Colab Notebook Series
+# ML (Google Colab Notebook Series)
 
 ---
 
-This repository contains my complete ML classes notes held by my teacher in Google Colab.
+# This repository contains my complete ML classes notes held by my teacher in Google Colab.
 Each notebook is listed sequentially below.
 
 ---
