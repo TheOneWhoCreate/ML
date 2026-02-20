@@ -8,7 +8,7 @@ This repository contains my complete ML classes notes held by my teacher in Goog
 
 ### 2️⃣ Notebook 2 – Exploratory Data Analysis
 
-### 3️⃣ Notebook 3 – Title
+### 3️⃣ Notebook 3 – Dimensionality Reduction
 
 ### 4️⃣ Notebook 4 – Title
 
