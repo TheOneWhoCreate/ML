@@ -4,11 +4,11 @@ This repository contains my complete ML classes notes held by my teacher in Goog
 
 ## 🔢 Notebooks 
 
-### 1️⃣ Notebook 1 – Familiarization
+### 1️⃣ Notebook 1 – [Familiarization](familiarization.md)
 
-### 2️⃣ Notebook 2 – Exploratory Data Analysis
+### 2️⃣ Notebook 2 – [Exploratory Data Analysis](exploratoryDataAnalysis.md)
 
-### 3️⃣ Notebook 3 – Dimensionality Reduction
+### 3️⃣ Notebook 3 – [Dimensionality Reduction](dimensionalityRedection.md)
 
 ### 4️⃣ Notebook 4 – Title
 
@@ -20,6 +20,12 @@ This repository contains my complete ML classes notes held by my teacher in Goog
 
 ### 8️⃣ Notebook 8 – Title
 
+## 🚀 How to Run
+
+```bash
+pip install numpy pandas matplotlib scipy scikit-learn
+jupyter notebook Familiarization.ipynb
+```
 
 ## 👨‍💻 Author
 **Atanu Rooj**  
