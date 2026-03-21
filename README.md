@@ -10,11 +10,11 @@ This repository contains my complete ML classes notes held by my teacher in Goog
 
 ### 3️⃣ Notebook 3 – [Dimensionality Reduction](dimensionalityRedection.md)
 
-### 4️⃣ Notebook 4 – [Linear Regression]
+### 4️⃣ Notebook 4 – [Linear Regression](LinearRegression.md)
 
-### 5️⃣ Notebook 5 – [KNN Classifier]
+### 5️⃣ Notebook 5 – [KNN Classifier](KNNClassifier.md)
 
-### 6️⃣ Notebook 6 – [DT & RF Classifier]
+### 6️⃣ Notebook 6 – [DT & RF Classifier](DT&RFClassifier.md)
 
 ### 7️⃣ Notebook 7 – Title
 
