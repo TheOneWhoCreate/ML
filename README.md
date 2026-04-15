@@ -16,7 +16,7 @@ This repository contains my complete ML classes notes held by my teacher in Goog
 
 ### 6️⃣ Notebook 6 – [DT & RF Classifier](DT&RFClassifier.md)
 
-### 7️⃣ Notebook 7 – Title
+### 7️⃣ Notebook 7 – [SVM_Classifier](SVM_Classifier.mdmd)
 
 ### 8️⃣ Notebook 8 – Title
 
