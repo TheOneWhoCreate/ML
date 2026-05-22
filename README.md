@@ -20,7 +20,7 @@ This repository contains my complete ML classes notes held by my teacher in Goog
 
 ### 8️⃣ Notebook 8 – [ANN Classifier](ANNClassifier.md)
 
-### 8️⃣ Notebook 9 – [CNN Classifier](CNNClassifier.mdmd)
+### 8️⃣ Notebook 9 – [CNN Classifier](CNNClassifier.md)
 
 ### 8️⃣ Notebook 10 – [Autoencoder](ANNClassifier.md)
 
